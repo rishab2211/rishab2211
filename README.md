@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** and a pre-final year IT undergrad, passionate about building high-performance web applications with clean UI, strong logic, and optimized architecture.
+I'm a **Full Stack Developer** and a pre-final year IT undergrad, passionate about building high-performance applications with clean UI, strong logic, and optimized architecture.
 
 💡 I love exploring how things work under the hood and bring ideas to life through real-world projects—where I’ve learned the most by breaking things and fixing them.
 
@@ -12,9 +12,23 @@ I'm a **Full Stack Developer** and a pre-final year IT undergrad, passionate abo
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rishab2211)
-- 📧 [rishabraj2211@gmail.com](mailto:rishabraj2211@gmail.com)
-- 🌐 Portfolio: *Coming Soon!*
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishab2211" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rishabraj2211@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Rshb_twts" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Gray?style=for-the-badge&logo=google-chrome&logoColor=white" /><b>(Coming Soon!)</b>
+  </span>
+</p>
 
 ---
 
