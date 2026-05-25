@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=50&lines=👋+Hi,+I'm+Rishab!;Full-Stack+AI+Engineer;Java+Spring+Boot+•+MERN;Agentic+AI+•+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi%2C+I%27m+Rishab%21;Full-Stack+AI+Engineer;Java+Spring+Boot+%E2%80%A2+MERN;Agentic+AI+%E2%80%A2+RAG+Pipelines" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me  
-I am a **Full-Stack AI Engineer** and Information Technology graduate passionate about building highly scalable backend architectures, end-to-end applications, and intelligent AI-driven systems.
+I am a **Full-Stack AI Engineer** passionate about building highly scalable backend architectures, end-to-end applications, and intelligent AI-driven systems.
 
 💡 I focus on bridging the gap between advanced AI models and production-grade software. Whether it's orchestrating complex AI agent workflows, optimizing real-time protocols under the hood, or breaking systems to engineer them better, I build with performance, scalability, and clean system design in mind.
 
@@ -32,9 +32,11 @@ I am a **Full-Stack AI Engineer** and Information Technology graduate passionate
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rishab2211&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab2211&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishab2211&show_icons=true&theme=dark&hide_border=true&title_color=4a90e2&icon_color=4a90e2" height="150" alt="Rishab's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab2211&layout=compact&theme=dark&hide_border=true&title_color=4a90e2" height="150" alt="Rishab's Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rishab2211&theme=radical" />
