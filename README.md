@@ -28,16 +28,3 @@ I am a **Full-Stack AI Engineer** passionate about building highly scalable back
 📚 I write blogs on hashnode.
 [![Hashnode](https://img.shields.io/badge/Read%20My%20Blogs-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rishab2211)  
 👉 [hashnode.com/@rishab2211](https://hashnode.com/@rishab2211)
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishab2211&show_icons=true&theme=dark&hide_border=true&title_color=4a90e2&icon_color=4a90e2" height="150" alt="Rishab's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab2211&layout=compact&theme=dark&hide_border=true&title_color=4a90e2" height="150" alt="Rishab's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishab2211&theme=radical" />
-</p>
