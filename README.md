@@ -1,27 +1,27 @@
 <div align="center">
 
 # ⚡ Rishab Raj
-### Full-Stack AI Engineer • Systems & Backend Developer
+**Full-Stack & Systems Engineer • AI Infrastructure & High-Concurrency Backends**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Building+1M%2B+RPS+JVM+Socket+Servers;Orchestrating+Autonomous+AI+Agent+Pipelines;Engineering+Production+Microservices+%40+Lolocab;Full-Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Building+1M%2B+RPS+JVM+Socket+Servers;Architecting+Autonomous+AI+Agent+Pipelines;Engineering+Production+Microservices+%40+Lolocab;Full-Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishab2211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://rishab2211.hashnode.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    <img src="https://img.shields.io/badge/Technical_Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
   &nbsp;
   <a href="https://x.com/Rshb_twts" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-181717?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="mailto:rishabraj2211@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:rishabraj2211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,25 +29,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Profile
 
-I am a **Full-Stack AI Engineer** passionate about the intersection of **low-level systems programming**, **distributed microservices**, and **autonomous AI workflows**. I build software from the wire up—ranging from bare-metal TCP socket servers in raw Java to intelligent LLM-driven automation pipelines and production microservices.
+I am a **Software Engineer** focused on building high-throughput backend systems, resilient microservices, and autonomous AI automation pipelines. I enjoy working close to the network layer—whether that means implementing custom thread-pooled TCP servers in raw Java, streaming binary payloads across WebSockets, or orchestrating dynamic DAG workflows with LLMs.
 
-- 💼 **Current Role:** SDE Intern at **Lolocab (Triptota Services Pvt. Ltd.)** — Engineering carpool booking pipelines, coupon validation APIs, and dynamic SEO pre-rendering engines.
-- 🎓 **Education:** B.Tech in Information Technology @ **Maharaja Agrasen Institute of Technology (MAIT)** *(2022 – 2026 | GPA: 8.0)*.
-- 🏆 **Honors & Awards:**
-  - 🏅 Conferred the **Dr. J.K. Pal Memorial Award** by *IEEE Delhi Section Student Network* (Jun 2026).
-  - 🏆 Secured the national **Outstanding Student Branch Award** from *IEEE India Council* (Dec 2025).
-- 🤝 **Leadership:** **Mentor** & former **Vice Chairperson** at **IEEE MAIT** — Scaled active core team from `<10` to `160+` student engineers, organized a national **Agentic AI Hackathon**, and reached `2,000+` students.
-- 💡 **Core Focus:** High-Concurrency Systems (1M+ RPS JVM engine), AI Agent Workflows, Distributed Backends, Edge Compute, and Clean System Design.
+* 💼 **Production Engineering:** SDE Intern at **Lolocab (Triptota Services Pvt. Ltd.)** — building carpool booking pipelines, coupon validation microservices, and automated dynamic SEO pre-rendering engines.
+* 🎓 **Academics:** B.Tech in Information Technology @ **Maharaja Agrasen Institute of Technology (MAIT)** *(GPA: 8.0 / 10 | 2022 – 2026)*.
+* 🏆 **Honors:** Conferred the **Dr. J.K. Pal Memorial Award** *(IEEE Delhi Section, 2026)* and secured the **Outstanding Student Branch Award** *(IEEE India Council, 2025)*.
+* 🏛️ **Community Leadership:** Mentor & Ex-Vice Chairperson at **IEEE MAIT** — scaled the core developer team from `<10` to `160+` student engineers and organized a national **Agentic AI Hackathon**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Stack & Tooling
 
-<table width="100%">
+<table>
   <tr>
-    <td width="25%" align="left"><b>Languages</b></td>
+    <td width="24%" align="left"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -72,6 +69,15 @@ I am a **Full-Stack AI Engineer** passionate about the intersection of **low-lev
     </td>
   </tr>
   <tr>
+    <td align="left"><b>AI & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Agentic_AI-00C7B7?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+      <img src="https://img.shields.io/badge/ReactFlow-FF0072?style=flat-square&logo=react&logoColor=white" alt="ReactFlow" />
+    </td>
+  </tr>
+  <tr>
     <td align="left"><b>Frontend & UI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -82,16 +88,7 @@ I am a **Full-Stack AI Engineer** passionate about the intersection of **low-lev
     </td>
   </tr>
   <tr>
-    <td align="left"><b>AI & Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini" />
-      <img src="https://img.shields.io/badge/Agentic_AI-00C7B7?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
-      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
-      <img src="https://img.shields.io/badge/ReactFlow-FF0072?style=flat-square&logo=react&logoColor=white" alt="ReactFlow" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Databases & Cloud</b></td>
+    <td align="left"><b>Data & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -117,61 +114,61 @@ I am a **Full-Stack AI Engineer** passionate about the intersection of **low-lev
 
 ---
 
-### 🚀 Featured Projects
+### 🔬 Featured Projects & Engineering Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/rishab2211/AI-WebScraping-Automator">AI Web Automation Engine</a></h3>
-      <p><i>Next.js • Puppeteer • ReactFlow • Google Gemini • Cron</i></p>
+      <h3>⚡ <a href="https://github.com/rishab2211/Webserver-JAVA">Multithreaded TCP Server</a></h3>
+      <p><i>Java • Socket Programming • Multi-threading • Thread Pooling</i></p>
       <ul>
-        <li>Node-based visual DAG workflow canvas for custom web scraping and automation.</li>
-        <li>Multimodal Gemini AI module delivering <b>85% accuracy</b> on unstructured DOM elements.</li>
-        <li>Automated recurring cron scheduler with distributed logging & error telemetry.</li>
+        <li><b>The Problem:</b> Heavy web containers introduce thread startup latency and unnecessary memory overhead for raw throughput.</li>
+        <li><b>Engineering:</b> Built a bare-metal HTTP/TCP server from scratch using raw socket streams and custom worker thread pools.</li>
+        <li><b>Benchmark:</b> Handled <b>1M+ Requests Per Second (RPS)</b> while slashing memory consumption by <b>35%</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/AI-WebScraping-Automator"><b>📦 GitHub Repository</b></a> • 
-        <a href="https://www.linkedin.com/posts/rishab2211_excited-to-unveil-my-latest-project-activity-7313520047497363457-DfRW"><b>🎥 Video Demo</b></a>
+        <a href="https://github.com/rishab2211/Webserver-JAVA"><b>📦 Source Code</b></a> • 
+        <a href="https://www.linkedin.com/posts/rishab2211_multithreading-socketprogramming-java-activity-7276772684357632-iDon"><b>📊 Architecture & Benchmark</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/rishab2211/ChatX">ChatX Real-Time Platform</a></h3>
-      <p><i>React.js • Node.js • Express • WebSockets • MongoDB • Zustand</i></p>
+      <h3>🤖 <a href="https://github.com/rishab2211/AI-WebScraping-Automator">AI Web Scraping Automator</a></h3>
+      <p><i>Next.js • Puppeteer • ReactFlow • Gemini AI • Cron</i></p>
       <ul>
-        <li>High-availability bidirectional messaging engine maintaining <b>99.9% uptime</b>.</li>
-        <li>Stateless JWT authentication & multi-format file sharing supporting payloads up to <b>10MB</b>.</li>
-        <li>Zustand state optimization driving a <b>40% boost</b> in UI rendering responsiveness.</li>
+        <li><b>The Problem:</b> Brittle CSS/XPath selectors break continuously when target websites update their DOM layout.</li>
+        <li><b>Engineering:</b> Designed a visual DAG workflow canvas paired with Gemini LLM reasoning to extract data from raw HTML without static selectors.</li>
+        <li><b>Metrics:</b> Delivered <b>85% accuracy</b> on unstructured DOM elements with scheduled cron execution & telemetry.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/ChatX"><b>📦 GitHub Repository</b></a> • 
-        <a href="https://chat-x-three-gamma.vercel.app"><b>🌐 Live App</b></a>
+        <a href="https://github.com/rishab2211/AI-WebScraping-Automator"><b>📦 Source Code</b></a> • 
+        <a href="https://www.linkedin.com/posts/rishab2211_excited-to-unveil-my-latest-project-activity-7313520047497363457-DfRW"><b>🎥 Video Demo</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rishab2211/Webserver-JAVA">Multithreaded TCP Server</a></h3>
-      <p><i>Java • Raw Socket Programming • Thread Pooling • Concurrency</i></p>
+      <h3>💬 <a href="https://github.com/rishab2211/ChatX">ChatX Real-Time Platform</a></h3>
+      <p><i>React.js • Node.js • Express • WebSockets • MongoDB • Zustand</i></p>
       <ul>
-        <li>Bare-metal web server built from scratch using low-level socket streams without heavy container bloat.</li>
-        <li>Custom thread pool architecture benchmarked at <b>1M+ Requests Per Second (RPS)</b>.</li>
-        <li>Reduced overall memory overhead by <b>35%</b> under peak concurrent loads.</li>
+        <li><b>Engineering:</b> High-availability bidirectional messaging platform maintaining <b>99.9% uptime</b> with stateless JWT authentication.</li>
+        <li><b>Features:</b> Chunked binary file transmission supporting payloads up to <b>10MB</b>.</li>
+        <li><b>Optimization:</b> Optimized client state subscriptions with Zustand, boosting UI responsiveness by <b>40%</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/Webserver-JAVA"><b>📦 GitHub Repository</b></a> • 
-        <a href="https://www.linkedin.com/posts/rishab2211_multithreading-socketprogramming-java-activity-7276772684357632-iDon"><b>📊 Architecture Post</b></a>
+        <a href="https://github.com/rishab2211/ChatX"><b>📦 Source Code</b></a> • 
+        <a href="https://chat-x-three-gamma.vercel.app"><b>🌐 Live Application</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/rishab2211/Social">Social Media App Backend</a></h3>
+      <h3>🌐 <a href="https://github.com/rishab2211/Social">Social Media Graph Backend</a></h3>
       <p><i>Java • Spring Boot • PostgreSQL • Spring Security • JWT</i></p>
       <ul>
-        <li>Enterprise-grade backend engine securing <b>15+ RESTful API endpoints</b>.</li>
-        <li>Stateless JWT authentication and role-based access control filters.</li>
-        <li>Complex relational schemas and indexing optimized for social graph traversals.</li>
+        <li><b>Engineering:</b> Enterprise-grade relational backend securing <b>15+ RESTful API endpoints</b> with stateless authentication.</li>
+        <li><b>Security:</b> Configured custom Spring Security filter chains and role-based access control (RBAC).</li>
+        <li><b>Database:</b> Designed relational schemas and indexing strategies optimized for social graph traversals.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/Social"><b>📦 GitHub Repository</b></a>
+        <a href="https://github.com/rishab2211/Social"><b>📦 Source Code</b></a>
       </p>
     </td>
   </tr>
@@ -179,21 +176,21 @@ I am a **Full-Stack AI Engineer** passionate about the intersection of **low-lev
 
 ---
 
-### 💼 Work Experience & Leadership
+### 💼 Engineering Experience & Leadership
 
 * 🚀 **Software Development Engineer Intern** — **Lolocab (Triptota Services Pvt. Ltd.)** *(May 2026 – Present)*
-  * Built full-stack carpool search, ride offering, and booking workflows across React and Node.js microservices.
-  * Architected dynamic SEO pre-rendering pipelines and dynamic sitemaps, cutting crawler latency and boosting search indexation.
+  * Engineered carpool search, ride allocation, and booking pipelines across React and Node.js microservices.
+  * Architected dynamic SEO server-side pre-rendering pipelines and dynamic sitemaps, cutting crawler latency and accelerating search engine indexation.
   * Integrated coupon validation APIs, investor telemetry panels, and administrative document workflows.
 
 * 🏛️ **Mentor & Ex-Vice Chairperson** — **IEEE MAIT Student Branch** *(Aug 2023 – Present)*
-  * Scaled active core team from `<10` to `160+` student engineers, reaching `2,000+` students across 50+ technical initiatives.
-  * Organized a national **Agentic AI Hackathon** and led technical workshops on backend architectures.
-  * Conferred the **Dr. J.K. Pal Memorial Award** (IEEE Delhi SSN) & **Outstanding Student Branch Award** (IEEE India Council).
+  * Scaled active core developer team from `<10` to `160+` student engineers, reaching `2,000+` students across 50+ technical initiatives.
+  * Directed a national **Agentic AI Hackathon** and led technical workshops on backend architectures.
+  * Honored with the **Dr. J.K. Pal Memorial Award** *(IEEE Delhi SSN)* and the **Outstanding Student Branch Award** *(IEEE India Council)*.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishab2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Rishab's GitHub Stats" height="165" />
@@ -205,13 +202,13 @@ I am a **Full-Stack AI Engineer** passionate about the intersection of **low-lev
 
 ---
 
-### ✍️ Technical Writing & Blogs
+### ✍️ Technical Writing & Systems Articles
 
-I regularly write in-depth technical articles on backend architecture, systems programming, and full-stack AI on [**Hashnode**](https://rishab2211.hashnode.dev):
+I write technical deep-dives on system design, low-level networking, and AI automation on [**Hashnode**](https://rishab2211.hashnode.dev):
 
-* 📚 *Low-level socket programming and high-concurrency JVM performance.*
-* 📚 *Building resilient web scraping and automation workflows with Gemini AI.*
-* 📚 *Edge compute runtimes with Cloudflare Workers and HonoJS.*
+* 📚 *Bare-metal socket programming and high-concurrency JVM performance.*
+* 📚 *Building resilient web automation pipelines with headless browsers & LLMs.*
+* 📚 *Edge compute architectures with Cloudflare Workers and HonoJS.*
 
 👉 [**Read all articles at rishab2211.hashnode.dev →**](https://rishab2211.hashnode.dev)
 
@@ -219,9 +216,9 @@ I regularly write in-depth technical articles on backend architecture, systems p
 
 <div align="center">
 
-### 📬 Let's Connect & Build Together
+### 📬 Connect & Collaborate
 
-Feel free to reach out for collaborations, backend/systems roles, or just to chat about tech!
+Open to discussions on systems engineering, high-throughput backends, and full-stack AI roles.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishab2211" target="_blank">
