@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio.rishabraj2211.workers.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Cloudflare_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rishab2211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -119,28 +123,28 @@ I am a **Software Engineer** focused on building high-throughput backend systems
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rishab2211/Webserver-JAVA">Multithreaded TCP Server</a></h3>
+      <h3>⚡ <a href="https://github.com/rishab2211/TCP-Server---JAVA">Multithreaded TCP Server</a></h3>
       <p><i>Java • Socket Programming • Multi-threading • Thread Pooling</i></p>
       <ul>
-        <li><b>The Problem:</b> Heavy web containers introduce thread startup latency and unnecessary memory overhead for raw throughput.</li>
-        <li><b>Engineering:</b> Built a bare-metal HTTP/TCP server from scratch using raw socket streams and custom worker thread pools.</li>
-        <li><b>Benchmark:</b> Handled <b>1M+ Requests Per Second (RPS)</b> while slashing memory consumption by <b>35%</b>.</li>
+        <li><b>The Problem:</b> Heavy application containers introduce thread startup latency and excessive memory churn for raw network I/O.</li>
+        <li><b>Engineering:</b> Built a bare-metal HTTP/TCP server from scratch using raw socket streams and tuned worker thread pools (`ExecutorService`).</li>
+        <li><b>Benchmark:</b> Handled <b>1M+ Requests Per Second (RPS)</b> with persistent keep-alive sockets while slashing memory consumption by <b>35%</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/Webserver-JAVA"><b>📦 Source Code</b></a> • 
+        <a href="https://github.com/rishab2211/TCP-Server---JAVA"><b>📦 Source Code</b></a> • 
         <a href="https://www.linkedin.com/posts/rishab2211_multithreading-socketprogramming-java-activity-7276772684357632-iDon"><b>📊 Architecture & Benchmark</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/rishab2211/AI-WebScraping-Automator">AI Web Scraping Automator</a></h3>
-      <p><i>Next.js • Puppeteer • ReactFlow • Gemini AI • Cron</i></p>
+      <h3>🤖 <a href="https://github.com/rishab2211/AI-Powered-No-Code-Web-Scraping-Automation-tool">FlowCraft — AI Web Scraping Automator</a></h3>
+      <p><i>Next.js 15 • Puppeteer • React Flow • Gemini AI • Prisma</i></p>
       <ul>
-        <li><b>The Problem:</b> Brittle CSS/XPath selectors break continuously when target websites update their DOM layout.</li>
+        <li><b>The Problem:</b> Brittle CSS/XPath selectors break continuously when target websites update their dynamic DOM layouts.</li>
         <li><b>Engineering:</b> Designed a visual DAG workflow canvas paired with Gemini LLM reasoning to extract data from raw HTML without static selectors.</li>
-        <li><b>Metrics:</b> Delivered <b>85% accuracy</b> on unstructured DOM elements with scheduled cron execution & telemetry.</li>
+        <li><b>Metrics:</b> Delivered <b>85% accuracy</b> on unstructured DOM elements with scheduled cron execution & AES-256 encrypted credentials.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/AI-WebScraping-Automator"><b>📦 Source Code</b></a> • 
+        <a href="https://github.com/rishab2211/AI-Powered-No-Code-Web-Scraping-Automation-tool"><b>📦 Source Code</b></a> • 
         <a href="https://www.linkedin.com/posts/rishab2211_excited-to-unveil-my-latest-project-activity-7313520047497363457-DfRW"><b>🎥 Video Demo</b></a>
       </p>
     </td>
@@ -168,7 +172,22 @@ I am a **Software Engineer** focused on building high-throughput backend systems
         <li><b>Database:</b> Designed relational schemas and indexing strategies optimized for social graph traversals.</li>
       </ul>
       <p>
-        <a href="https://github.com/rishab2211/Social"><b>📦 Source Code</b></a>
+        <a href="https://github.com/rishab2211/Social"><b>📦 Backend Repo</b></a> • 
+        <a href="https://github.com/rishab2211/Social-frontend"><b>💻 Frontend Repo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚀 <a href="https://github.com/rishab2211/Portfolio">Interactive Edge Portfolio & Terminal Playground</a></h3>
+      <p><i>Next.js 16 (Turbopack) • Cloudflare Workers (OpenNext) • Supabase • Framer Motion • Tailwind CSS v4</i></p>
+      <ul>
+        <li><b>Dual-Mode Experience:</b> Features a clean <b>Founder (Builder)</b> mode focused on system architecture and competencies, alongside a cyberpunk <b>Stalker</b> mode with an interactive root terminal shell.</li>
+        <li><b>Edge Telemetry & Real-Time:</b> Real-time Spotify playback telemetry with Cloudflare KV edge caching and an interactive live guestbook wall powered by Supabase Realtime.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/rishab2211/Portfolio"><b>📦 Source Code</b></a> • 
+        <a href="https://portfolio.rishabraj2211.workers.dev"><b>🌐 Live Edge Deployment</b></a>
       </p>
     </td>
   </tr>
@@ -197,7 +216,7 @@ I am a **Software Engineer** focused on building high-throughput backend systems
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishab2211&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rishab2211&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 ---
