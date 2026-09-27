@@ -4,7 +4,7 @@
 **Full-Stack & Systems Engineer • AI Infrastructure & High-Concurrency Backends**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Building+1M%2B+RPS+JVM+Socket+Servers;Architecting+Autonomous+AI+Agent+Pipelines;Engineering+Production+Microservices+%40+Lolocab;Full-Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Building+1M%2B+RPS+JVM+Socket+Servers;Architecting+Autonomous+AI+Agent+Pipelines;Designing+Resilient+Cloud+Microservices;Full-Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 I am a **Software Engineer** focused on building high-throughput backend systems, resilient microservices, and autonomous AI automation pipelines. I enjoy working close to the network layer—whether that means implementing custom thread-pooled TCP servers in raw Java, streaming binary payloads across WebSockets, or orchestrating dynamic DAG workflows with LLMs.
 
-* 💼 **Production Engineering:** SDE Intern at **Lolocab (Triptota Services Pvt. Ltd.)** — building carpool booking pipelines, coupon validation microservices, and automated dynamic SEO pre-rendering engines.
+* 💼 **Production Engineering:** Software Development Engineer Intern — engineered booking pipelines, voucher validation microservices, and automated dynamic SEO pre-rendering engines.
 * 🎓 **Academics:** B.Tech in Information Technology @ **Maharaja Agrasen Institute of Technology (MAIT)** *(GPA: 8.0 / 10 | 2022 – 2026)*.
 * 🏆 **Honors:** Conferred the **Dr. J.K. Pal Memorial Award** *(IEEE Delhi Section, 2026)* and secured the **Outstanding Student Branch Award** *(IEEE India Council, 2025)*.
 * 🏛️ **Community Leadership:** Mentor & Ex-Vice Chairperson at **IEEE MAIT** — scaled the core developer team from `<10` to `160+` student engineers and organized a national **Agentic AI Hackathon**.
@@ -197,10 +197,10 @@ I am a **Software Engineer** focused on building high-throughput backend systems
 
 ### 💼 Engineering Experience & Leadership
 
-* 🚀 **Software Development Engineer Intern** — **Lolocab (Triptota Services Pvt. Ltd.)** *(May 2026 – Present)*
-  * Engineered carpool search, ride allocation, and booking pipelines across React and Node.js microservices.
+* 🚀 **Software Development Engineer Intern** *(May 2026 – Present)*
+  * Engineered high-concurrency booking pipelines, ride allocation systems, and microservices across React and Node.js.
   * Architected dynamic SEO server-side pre-rendering pipelines and dynamic sitemaps, cutting crawler latency and accelerating search engine indexation.
-  * Integrated coupon validation APIs, investor telemetry panels, and administrative document workflows.
+  * Integrated coupon validation engines, telemetry analytics panels, and administrative document workflows.
 
 * 🏛️ **Mentor & Ex-Vice Chairperson** — **IEEE MAIT Student Branch** *(Aug 2023 – Present)*
   * Scaled active core developer team from `<10` to `160+` student engineers, reaching `2,000+` students across 50+ technical initiatives.
